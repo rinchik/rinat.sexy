@@ -2,4 +2,4 @@
 
 ## http://www.rinat.sexy
 
-Redirecs to personal Facebook page if on desctop or opens Facebook app if on mobile.
+Redirects to personal Facebook page if on desktop or opens my profile in Facebook app if on mobile.
