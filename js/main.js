@@ -1,6 +1,6 @@
 (function init(sexy){
 
-	var where = sexy.isMobile ? sexy.mobileURL : sexy.desktopURL;
+	var where = sexy.isMobile() ? sexy.mobileURL : sexy.desktopURL;
 
 	sexy.redirect(where);
 
